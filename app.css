@@ -1,4 +1,15 @@
+body {
+    background-image: url("images/bg-desktop.svg")
+}
+
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+
+}
+
 p {
     text-align: left;
 
+    font-family: 'Open Sans', sans-serif;
 }
